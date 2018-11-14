@@ -1,8 +1,8 @@
 # DynamicSearchableEncryption
 
-•	We have done this project in python language.
-•	Version of python is 2.7.10.
-•	For running any python file from command prompt, you must set your PATH variables.
+We have done this project in python language.
+Version of python is 2.7.10.
+For running any python file from command prompt, you must set your PATH variables.
 •	For installing any module, you can use “python -m pip install package-name” command from the command prompt.
 •	For running this project, python compiler must include these modules which was already installed before importing them in program:
   o	dropbox
